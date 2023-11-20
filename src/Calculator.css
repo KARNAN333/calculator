@@ -1,0 +1,18 @@
+.Cal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(102, 98, 98);
+    /* d-flex align-items-center justify-content-center mt-5 */
+}
+
+.Car{
+    /* style={{ width: '18rem' }}  */
+    border-radius: 13px;
+    width: 350px;
+}
+
+.Form {
+    height: 45px;
+}
