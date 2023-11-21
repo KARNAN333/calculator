@@ -41,6 +41,7 @@ function Calculator() {
 
   return (
     <div>
+      <h3>Calculator</h3>
       <div className="Cal">
         <Card border="warning" className='Car'>
           <Card.Header>
